@@ -1,3 +1,3 @@
-# 📈 Stock Market Data
+# 📈 STOCK FLOW
 
-Data processing engine using Kafka - real time processing!
+Stock Market Data processing engine using Kafka - real time processing!
